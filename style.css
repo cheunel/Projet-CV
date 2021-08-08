@@ -1,0 +1,33 @@
+.page{
+    width: 800px;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+.entête{
+    height: 150px;
+}
+.info{
+    float: right;
+}
+.photo{
+    float: left;
+}
+.section{
+    margin-top: 70px;
+    text-align: justify;
+}
+.sec-gauche{
+    float: left;
+    font-size: 16px;
+}
+.sec-droite{
+    margin-left: 370px;
+    font-size: 17px;
+}
+.h2{
+    font-size: 15px;
+}
+h1{
+    font-size: 35px;
+}
